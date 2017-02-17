@@ -23,4 +23,15 @@
     <string name="last_week">Minggu Lalu</string>
     <string name="this_month">Bulan Ini</string>
     <string name="last_month">Bulan Lalu</string>
+
+    <!-- String values in LoginActivity -->
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="create_account">Buat akun</string>
+
+    <!-- String values in RegisterActivity -->
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="login_here">Masuk</string>
 </resources>

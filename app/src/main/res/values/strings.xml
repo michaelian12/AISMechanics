@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AIS Mechanics</string>
+
+    <!-- Title for activities. [CHAR LIMMIT=20] -->
+    <string name="activity_profile">Profil</string>
+    <string name="activity_history">Riwayat</string>
+    <string name="activity_order">Pesanan</string>
+    <string name="activity_login">Masuk</string>
+    <string name="activity_register">Daftar</string>
+
+    <!-- Title for drawer. [CHAR LIMIT=20] -->
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <!-- String values in OrderActivity -->
+    <string name="decline_button">Tolak</string>
+    <string name="accept_button">Terima</string>
+
+    <!-- String values in HistoryActivity -->
+    <string name="today">Hari Ini</string>
+    <string name="yesterday">Kemarin</string>
+    <string name="this_week">Minggu Ini</string>
+    <string name="last_week">Minggu Lalu</string>
+    <string name="this_month">Bulan Ini</string>
+    <string name="last_month">Bulan Lalu</string>
+</resources>
